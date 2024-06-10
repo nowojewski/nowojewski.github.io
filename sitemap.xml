@@ -1,189 +1,97 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://nowojewski.com/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/botswana/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/cambodia/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/canary_islands/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/drc/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/djibouti/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/education/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/egypt/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/ethiopia/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/france/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/georgia/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/india/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/indonesia/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/iran/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/ireland/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/jordan/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/kenya/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/ladakh/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/laos/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/malaysia/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/malta/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/myanmar/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/namibia/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/nepal/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/norway/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/overland/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/pakistan/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photography/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/portugal/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/publications/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/saudi_arabia/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/somaliland/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/south_africa/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/sudan/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/tanzania/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/thailand/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/turkey/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/uganda/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/uk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/work/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/kashmir/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nowojewski.com/photos/zimbabwe/</loc>
   </url>
-  
 </urlset>
